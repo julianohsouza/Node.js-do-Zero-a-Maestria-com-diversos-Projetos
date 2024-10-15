@@ -1,0 +1,14 @@
+{
+  "name": "tarefa02",
+  "version": "1.0.0",
+  "description": "Tarefa 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juliano Souza",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
